@@ -1,0 +1,90 @@
+body{
+    background: #fffbbc;
+    margin: 0px; 
+}
+header,nav,article{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+nav{
+    font: bold 14px verdana;
+    padding: 5px 15px;
+    text-align: right;
+}
+.wipala{
+    width: 100%;
+}
+p{
+    text-align: justify;
+}
+h2{
+    background: black;
+    color: white;
+    font-size: 30px;
+}
+.secI p{
+    padding-top: 20px;
+    padding-left: 40%;
+    padding-right: 20px;
+}
+.secN p{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.pNoImg{
+    padding-right: 35%;
+}
+article{
+    clear: both;
+    font-size: 24px;
+    display: block;
+    margin-bottom: 100px;
+}
+section{
+    clear: both;
+    margin-bottom: 50px;
+}
+h1{
+    font-size: 46px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.pie{
+    clear: both;
+    padding: 20px;
+    background: #2d3436;
+    color: #ffffff;
+}
+
+aside{
+    padding-top: 20px;
+    float: left;
+    width: 30%;
+    margin-bottom: 70px;
+}
+time{
+    font-family: monospace;
+    font-size: 17px;
+}
+article ul{
+    margin-left: 5%;
+}
+article img{
+    border: 1px solid black;
+    padding: 5px;
+    background: black;
+}
+article ul li{
+    margin-bottom: 15px;
+}
+nav{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+    text-align: right;
+}
+video{
+    margin-left: 15%;
+}
